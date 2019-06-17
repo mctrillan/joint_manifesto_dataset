@@ -1,0 +1,35 @@
+id and case variables
+
+party_year = manifesto id variable with country, party name, election year
+idmanifesto = numeric manifesto id variable from CPPP dataset
+partyid = numeric party id variable from CPPP dataset
+party = country, party
+year = year
+country = country abbreviation
+country_year = country, year
+
+
+CPPP variables
+
+fper = percentage of pledges fulfilled
+outalways = party never in government
+govparty = party in government
+xtimeyrs = length of government term in years
+growey = growth in election year
+growav = average growth between elections (election year and next election)
+chex = party controls chief executive
+gtsinmin = single party minority
+gtsinmaj = single party majority
+gtcomin = coalition minority
+gtcomaj = coalition majority
+ncount = number of pledges
+
+
+MARPOR variables
+
+parfam = party family
+pervote = percentage of vote in election year
+total = number of quasi-sentences
+diversity = issue diversity (expected number of manifesto issues, Greene 2016)
+rile = right/left ideology composite measure
+clarity = issue clarity (number of CPPP pledges divided by MARPOR quasi-sentences, Praprotnik 2017)
